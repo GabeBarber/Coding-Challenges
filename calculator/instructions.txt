@@ -1,0 +1,16 @@
+We want you to build an EXTRA cool calculator
+
+1. Create two inputs (Or for extra credit you can create 0-9 buttons)
+2. Create the equals, multiplication, addition, subtraction, 
+and division operator buttons
+3. Create the addition, multiplication, subtractions, and division functions
+4. Keep track of the two inputs using state 
+(or if you created buttons add to the two states, 
+before and after they hit the operator button)
+5. When they hit equals, display the result 
+
+
+Extra Credit
+1. Add a modulus button (it's cool if you even know what this is)
+2. Add a clear button
+3. Make sure you can ONLY add numbers to your inputs if you used them
